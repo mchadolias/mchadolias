@@ -17,20 +17,82 @@
 ![WakaTime](https://wakatime.com/badge/user/mchadolias.svg)
 
 <!--START_SECTION:waka-->
-**🚀 Coding Stats Coming Soon!**
-*I've just set up WakaTime to track my development activity. Check back in a day or two to see:*
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
-- 📈 Weekly coding hours
-- 🐍 Language breakdown  
-- 🔧 Editor usage
-- 🕒 Most productive times
+**🐱 My GitHub Data** 
 
-*In the meantime, here's what I typically work with:*
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 366 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
-- **Languages**: Python, C++, Bash
-- **ML Frameworks**: PyTorch, TensorFlow, Scikit-learn
-- **Tools**: Docker, Git, Linux, VS Code, FastAPI
-- **Domains**: Physics, Data Science, Machine Learning
+```text
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+🌆 Daytime                115 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+🌃 Evening                380 commits         ███████████████░░░░░░░░░░   59.47 % 
+🌙 Night                  143 commits         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Tuesday                  110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Wednesday                178 commits         ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+Thursday                 143 commits         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Saturday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Sunday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Athens
+
+💬 Programming Languages: 
+Python                   3 hrs 56 mins       ███████████████████░░░░░░   74.65 % 
+Markdown                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 16 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+miniboone-classification 4 hrs 36 mins       ██████████████████████░░░   87.38 % 
+readme                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+
+💻 Operating System: 
+Linux                    5 hrs 16 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+TeX                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mchadolias/mchadolias/main/assets/bar_graph.png)
+
+
+ Last Updated on 26/11/2025 23:51:57 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me:
