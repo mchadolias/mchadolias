@@ -7,7 +7,6 @@
 🔬 **Physicist** applying ML to particle physics  
 📚 **Learning** modern ML through ML Zoomcamp  
 🎯 **Seeking** PhD in particle physics
-💫 **Passionate** about data-driven science
 
 ## 💻 Tools
 
