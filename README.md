@@ -17,9 +17,9 @@
 ![WakaTime](https://wakatime.com/badge/user/mchadolias.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-234.7%20thousand%20lines%20of%20code-blue)
 
@@ -27,7 +27,7 @@
 
 > 📦 195.8 kB Used in GitHub's Storage 
  > 
-> 🏆 367 Contributions in the Year 2025
+> 🏆 366 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -92,7 +92,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2025 00:13:58 UTC
+ Last Updated on 27/11/2025 01:19:19 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me:
