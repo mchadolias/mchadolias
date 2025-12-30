@@ -4,9 +4,9 @@
 
 ## 👨‍💻 About Me
 
-🔬 **Physicist** applying ML to particle physics  
-📚 **Learning** modern ML through ML Zoomcamp  
-🎯 **Seeking** PhD in particle physics
+🔬 **Incoming PhD student in Neutrino Physics** (KM3NeT) at IFIC / Universitat de València  
+📊 Astroparticle physics · neutrino data analysis · scientific computing
+🤖 Developing and applying machine learning methods in particle and astroparticle physics
 
 ## 💻 Tools
 
