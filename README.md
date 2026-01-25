@@ -58,17 +58,16 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Athens
 
 💬 Programming Languages: 
-Python                   58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nba-sports-analytics     57 mins             █████████████████████████   98.17 % 
-miniboone-classification 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +83,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2026 01:25:18 UTC
+ Last Updated on 25/01/2026 01:45:43 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me:
