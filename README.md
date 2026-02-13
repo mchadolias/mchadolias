@@ -4,9 +4,9 @@
 
 ## 👨‍💻 About Me
 
-🔬 **Incoming PhD student in Neutrino Physics** (KM3NeT) at IFIC / Universitat de València  
-🤖 Developing and applying machine learning methods in particle and astroparticle physics  
-📊 Astroparticle physics · neutrino physics · data analysis · scientific computing         
+🔬 **PhD student in Neutrino Physics** at IFIC(CSIC - UV) with the VEGA group   
+🤖 Developing and applying machine learning methods in astroparticle physics  
+📊 Astroparticle physics · neutrino oscillations · data analysis · scientific computing         
 
 ## 💻 Tools
 
