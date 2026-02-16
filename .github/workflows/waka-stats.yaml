@@ -1,13 +1,13 @@
 name: WakaTime Stats Update
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  #schedule:
+  #  - cron: '0 0 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:
     inputs:
       logLevel:
-        description: 'Log level'     
+        description: "Log level"
         required: false
-        default: 'warning'
+        default: "warning"
 jobs:
   update-readme:
     name: Update WakaTime Stats
@@ -20,20 +20,20 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
           # Core display options:
-          SHOW_SHORT_INFO: true          # Quick summary
-          SHOW_TOTAL_CODE_TIME: true      # Total hours coded lifetime
-          SHOW_TIMEZONE: true             # Your timezone
-          SHOW_OS: true                   # Operating systems used
-          SHOW_PROJECTS: true             # Current projects
-          SHOW_LANGUAGE: true             # Programming languages
-          SHOW_LANGUAGE_PER_REPO: true    # Show programming languages per project
-          SHOW_DAYS_OF_WEEK: true         # When you code during week
-          SHOW_PROFILE_VIEWS: true        # GitHub profile views
-          SHOW_COMMIT: true               # Git commit information
-          SHOW_LOC_CHART: false           # Remove LOC Chart
-          
+          SHOW_SHORT_INFO: true # Quick summary
+          SHOW_TOTAL_CODE_TIME: true # Total hours coded lifetime
+          SHOW_TIMEZONE: true # Your timezone
+          SHOW_OS: true # Operating systems used
+          SHOW_PROJECTS: true # Current projects
+          SHOW_LANGUAGE: true # Programming languages
+          SHOW_LANGUAGE_PER_REPO: true # Show programming languages per project
+          SHOW_DAYS_OF_WEEK: true # When you code during week
+          SHOW_PROFILE_VIEWS: true # GitHub profile views
+          SHOW_COMMIT: true # Git commit information
+          SHOW_LOC_CHART: false # Remove LOC Chart
+
           # Customization:
-          LOCALE: 'en'                    # Language/locale
+          LOCALE: "en" # Language/locale
 
           # Advanced:
           IGNORED_REPOS: "mchadolias.github.io,dotfiles"
