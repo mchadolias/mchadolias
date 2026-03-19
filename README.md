@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mchadolias/mchadolias/main/github-header-banner.png">
+  <img src="https://raw.githubusercontent.com/mchadolias/mchadolias/main/km3net_inspired_github_banner.png">
 </p>
 
 ## 👨‍💻 About Me
 
-🔬 **PhD student in Neutrino Physics** at IFIC(CSIC - UV) with the VEGA group
-🤖 Developing and applying machine learning methods in astroparticle physics  
-📊 Astroparticle physics · neutrino oscillations · data analysis · scientific computing
+🔬 **Predoctoral Researcher in Neutrino Physics** at IFIC (CSIC-UV) with the VEGA group
+🏛️ Doctoral Student in Experimental High Energy Physics at the University of Valencia
+🤖 Developing and applying machine learning methods in astroparticle physics
+📊 Astroparticle physics · Neutrino oscillations · Data analysis · Scientific computing
 
 ## 💻 Tools
 
@@ -16,10 +17,10 @@
 
 **Best ways to connect:**
 
-- 📧 **Email:** mchadolias[at]gmail.com (Preferred)
+- 📧 **Email:** mchadolias at gmail.com (Preferred)
 - 💼 **LinkedIn:** [Michalis Chadolias](https://linkedin.com/in/michael-chadolias)
 - 🐙 **GitHub:** [@mchadolias](https://github.com/mchadolias)
 
-**Also find me on:**
+**Also you can check out:**
 
 - 📊 [Kaggle](https://kaggle.com/mchadolias) • 🌐 [Personal Website](https://mchadolias.github.io)
