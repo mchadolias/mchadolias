@@ -5,8 +5,11 @@
 ## 👨‍💻 About Me
 
 🔬 **Predoctoral Researcher in Neutrino Physics** at IFIC (CSIC-UV) with the VEGA group
+
 🏛️ Doctoral Student in Experimental High Energy Physics at the University of Valencia
+
 🤖 Developing and applying machine learning methods in astroparticle physics
+
 📊 Astroparticle physics · Neutrino oscillations · Data analysis · Scientific computing
 
 ## 💻 Tools
